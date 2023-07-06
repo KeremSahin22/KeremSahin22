@@ -3,11 +3,11 @@
 - 🔭 I’m currently interested in Machine Learning and Data Science related work.
 - 🌱 However, I am also interested and experienced in Software Analytics and Web Development.
 
-##Contact Information:
+## Contact Information:
 
 
-##Languages & Tools
-- [![My Skills](https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css,r)](https://skillicons.dev)
+## Languages & Tools
+[![My Skills](https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css,r)](https://skillicons.dev)
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 <!--
 **KeremSahin22/KeremSahin22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
