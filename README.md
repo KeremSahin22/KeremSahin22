@@ -1,5 +1,5 @@
 ### Hi there 👋
-https://github.com/madushadhanushka/github-readme
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 <!--
 **KeremSahin22/KeremSahin22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
