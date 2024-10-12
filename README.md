@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Kerem
 
 - 🔭 I’m currently interested in Machine Learning and Data Science related work.
-- 🌱 However, I am also interested and experienced in Software Analytics and Web Development.
+- 🌱 However, I have also work and research experience in Software Analytics and Web Development.
 
 ## Contact Information
 <a href="https://www.linkedin.com/in/sahinkerem/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sahinkerem/" height="30" width="30" /></a>
