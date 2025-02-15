@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Kerem
 
 - 🌱 I’m a Computer Science Master's student at Northeastern University. I'm currently a Fulbright Scholar and my research focus is on Deep Learning and Mechanistic Interpretability. I am currently working on Sentence Level Conceptualization in LLMs and their evaluation. 
-- 🔭 In the past, my research focus was more on Empirical Software Engineering & Data Science.
+- 🔭 In the past, my research focus was more on Empirical Software Engineering & Data Science where we received Best Paper Award at EASE 2023 Conference.
 - 👯 I'm looking to collaborate on related research so please reach out if you are interested!
 
 
