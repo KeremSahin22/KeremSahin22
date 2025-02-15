@@ -1,14 +1,14 @@
 ### Hi there 👋 I'm Kerem
 
-- 🔭 I’m currently interested in Machine Learning and Data Science related work.
-- 🌱 However, I have also work and research experience in Software Analytics and Web Development.
+- 🌱 I’m a Computer Science Master's student at Northeastern University. I'm currently a Fulbright Scholar and my research focus is on Deep Learning and Mechanistic Interpretability. I am currently working on Sentence Level Conceptualization in LLMs and their evaluation. 
+- 🔭 In the past, my research focus was more on Empirical Software Engineering & Data Science.
+- 👯 I'm looking to collaborate on related research so please reach out if you are interested!
+
 
 ## Contact Information
 <a href="https://www.linkedin.com/in/sahinkerem/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sahinkerem/" height="30" width="30" /></a>
 
 
-## Languages & Tools
-[![My Skills](https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css,r)](https://skillicons.dev)
 ##
 <!--<img src="https://github-readme-stats.vercel.app/api/top-langs?username=KeremSahin22&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />-->
 <!--
